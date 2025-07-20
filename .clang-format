@@ -1,0 +1,5 @@
+IndentWidth: 8
+UseTab: ForIndentation
+AlignConsecutiveDeclarations: true
+PointerAlignment: Left
+BinPackParameters: OnePerLine
